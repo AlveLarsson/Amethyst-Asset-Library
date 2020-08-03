@@ -6,7 +6,7 @@
   </tr>
  </table>
 
-# Amethyst-Asset-Library
+# Amethyst-Asset-Library Pitch
 
 A set of free texture, and model assets for use inside Amethyst!
 

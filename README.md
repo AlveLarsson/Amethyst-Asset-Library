@@ -1,6 +1,10 @@
-<img src="_repo/grass_01.png" alt="Grass asset" />
-<img src="_repo/sand_01.png" alt="Sand asset" />
-<img src="_repo/wood_planks_01.png" alt="Wood asset" />
+<table>
+  <tr>
+    <td><img src="_repo/grass_01.png" alt="Grass asset" width=270 /></td>
+    <td><img src="_repo/sand_01.png" alt="Sand asset" width=270 /></td>
+    <td><img src="_repo/wood_planks_01.png" alt="Wood asset" width=270 /></td>
+  </tr>
+ </table>
 
 # Amethyst-Asset-Library
 
